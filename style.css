@@ -1,0 +1,19 @@
+html {
+  font-size: 10px;
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: "-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu;";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
+
+marquee {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+  margin-right: 25px;
+}
